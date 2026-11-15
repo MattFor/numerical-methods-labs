@@ -1,10 +1,9 @@
-# Numerical Methods
+# numerical-methods-labs
 
-Lab programs for the numerical methods class, part of my
-[semester 4 archive](https://github.com/MattFor/university-s4).
+[![License: proprietary](https://img.shields.io/badge/license-proprietary-lightgrey.svg)](LICENSE)
+
+Lab programs for the numerical methods class under L. Bieniasz, part of my [semester 4 archive](https://github.com/MattFor/university-s4).
 
 ## License
 
-All rights reserved [LICENSE](LICENSE)
-
-By MattFor
+Proprietary, all rights reserved, see [LICENSE](LICENSE). By [MattFor](https://github.com/MattFor).
