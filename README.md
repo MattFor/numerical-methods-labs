@@ -1,4 +1,4 @@
-# numerical-methods-labs
+# Numerical Methods Labs
 
 [![License: proprietary](https://img.shields.io/badge/license-proprietary-lightgrey.svg)](LICENSE)
 
